@@ -1,0 +1,5 @@
+selfcord
+discord.py
+colorama
+asyncio
+requests
